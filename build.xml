@@ -1,7 +1,0 @@
-<project name="BPM_WEB_APP_PROJECT" default="WAR-build" basedir=".">
-	<description>BPM_WEB_APP_PROJECT - Build file</description>
-	
-	<import file="buildProperties.xml"/>
-	<import file="buildTasks.xml"/>
-	
-</project>
